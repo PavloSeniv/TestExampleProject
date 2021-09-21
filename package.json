@@ -1,5 +1,5 @@
 {
-  "name": "gulp-build",
+  "name": "textexapmleyatskova",
   "version": "1.4.0",
   "description": "My gulp build for projects",
   "main": "index.html",
@@ -30,7 +30,5 @@
     "normalize.css": "^8.0.1",
     "gulp-concat": "^2.6.1"
   },
-  "dependencies": {
-    "aos": "^2.3.4"
-  }
+  "dependencies": {}
 }
